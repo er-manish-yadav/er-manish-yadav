@@ -22,10 +22,10 @@ I am a Full Stack Java Developer with **4+ years of combined experience** in web
 - HTML | CSS | Bootstrap | JavaScript
 
 ### 🔹 Backend
-- Java | Spring Boot | ASP.NET | C#
+- Java | Spring Boot | Hibernate | JPA & JDBC | ASP.NET | C# | C
 
 ### 🔹 Database
-- SQL Server
+- SQL Server | MySQL | PostgreSQL
 
 ### 🔹 Core Concepts
 - OOPs  
