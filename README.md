@@ -105,7 +105,7 @@ I am a Full Stack Java Developer with **4+ years of combined experience** in web
 ## 📫 Connect With Me
 - 📧 Email: **webskillpro.tech@gmail.com**
 - 📍 Location: Khalilabad, Sant Kabir Nagar  
-- 🔗 LinkedIn: [Your LinkedIn URL Here]
+- 🔗 LinkedIn: https://www.linkedin.com/in/manish-yadav-a7690927b/
 
 ---
 
